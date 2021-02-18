@@ -1,0 +1,14 @@
+name: "cat-website"
+navbar:
+  title: "Ivy Liang"
+  left:
+    - text: "Home"
+      href: index.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<ivyliang7@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/<ivyliang7>/
+output:
+  html_document:
+    theme: darkly
