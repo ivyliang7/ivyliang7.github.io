@@ -4,11 +4,10 @@ output:
   html_document
 ---
 
-This is John.
+About Me 
 
+Skills
 
-This is Pete.
+Work Experiences 
 
-
-They are brothers!
 
