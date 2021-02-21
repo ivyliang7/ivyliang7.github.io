@@ -1,5 +1,7 @@
 ---
-title: "My cats have a website!"
+title: "Welcome to Ivy's Personal Website"
+output:
+  html_document
 ---
 
 This is John.
