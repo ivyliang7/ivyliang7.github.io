@@ -1,8 +1,14 @@
 ---
-title: "Welcome to Ivy's Personal Website"
+title: <span style="font-size:125%; font-family:'Trebuchet MS'; font-style:normal">Welcome to Ivy's Personal Website</span>
 output:
-  html_document
+  html_document:
+    highlight: pygments
+    theme: spacelab
+    
 ---
+
+![A picture taken by me of Toronto at night](toronto_view.jpg)
+
 
 **About Me**
 
