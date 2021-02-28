@@ -1,23 +1,23 @@
 ---
-title: <span style="font-size:125%; font-family:'Trebuchet MS'; font-style:normal">Welcome to Ivy's Personal Website</span>
+title: <span style="font-size:125%; font-family:'Trebuchet MS'; font-style:normal">Hello! I'm Ivy</span>
 output:
   html_document:
     highlight: pygments
-    theme: spacelab
-    
+    theme: darkly
+
 ---
 
-![A picture taken by me of Toronto at night](toronto_view.jpg)
+![[A picture taken by me of Toronto at night]](toronto_view.jpg)
 
 
-**About Me**
+<font size = "6.5"> **About Me** </font>
 
 I'm currently a student at the University of Toronto interested in urban planning and data analytics. I've always been interested in cities and learning more about urban spaces through my classes and work experiences have been really fascinating. My interest in statistics and data analytics is something that was fueled by my courses in university and increasingly through how data can play a role in urban planning. 
 
 
 
-Skills
+<font size = "6.5"> **Projects & Work Experiences** </font>
 
-Work Experiences 
+<font size = "6.5"> **R Tips and Tricks!** </font>
 
 
