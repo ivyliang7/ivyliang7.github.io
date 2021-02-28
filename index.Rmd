@@ -1,5 +1,5 @@
 ---
-title: <span style="font-size:125%; font-family:'Trebuchet MS'; font-style:normal">Hello! I'm Ivy</span>
+title: <span style="font-size:125%; font-family:'Trebuchet MS'; font-style:normal">-Ivy Liang-</span>
 output:
   html_document:
     highlight: pygments
