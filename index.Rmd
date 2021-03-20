@@ -12,12 +12,67 @@ output:
 
 <font size = "6.5"> **About Me** </font>
 
-I'm currently a student at the University of Toronto interested in urban planning and data analytics. I've always been interested in cities and learning more about urban spaces through my classes and work experiences have been really fascinating. My interest in statistics and data analytics is something that was fueled by my courses in university and increasingly through how data can play a role in urban planning. 
+I'm currently a student at the University of Toronto interested in urban planning and data analytics. I've always been interested in cities and learning more about urban spaces and community development through my classes and work experiences have been really fascinating. My interest in statistics and data analytics is something that was fueled by my courses in university and increasingly through how data can play a role in urban planning. 
 
 
 
 <font size = "6.5"> **Projects & Work Experiences** </font>
 
+**>>> [WORK] Teaching Assistant** \n 
+
+*Department of Statistical Sciences (UofT)* \n
+
+January 2021 - Present \n
+
+\n
+- Teaching Assistant for STA130 (Intro to Statistical Reasoning and Data Science)
+- Duties include grading student work, running weekly tutorial sessions + preparing content and holding office hours
+
+==========
+
+**>>> [WORK] Assistant Undergraduate Internship and Mentorship Administrator** \n 
+
+*Department of Statistical Sciences (UofT)* \n
+
+May 2020 - Present \n 
+
+
+\n
+- Designed the first STA130 Mentorship SharePoint site
+- Regularly updating and maintaining the SharePoint to better fit the needs of the program
+- Training of mentors for the STA 130 Mentorship program
+- Helping to curate and/or create student support materials including: resume booklets, interviewing tips, job spotlights
+- Gained skills in remote working, time management and collaboration
+
+Tools Used: SharePoint, Teams, MS Office (Word, Excel, PowerPoint), OneDrive, Canva
+
+==========
+
+**>>> [WORK] Urban Planning Student** \n 
+
+*Township of Scugog* \n
+
+May 2019 - August 2019 \n 
+
+\n
+- Prepared public notices, zoning compliance letters, minor variance applications, zoning reviews, site plan circulations, zoning by law amendment applications, second dwelling applications
+- Attended pre-consultation and committee of adjustment meetings as well as prepared the corresponding meeting minutes
+- Updated the office consolidations of the Zoning by-law, Official Plan documents and schedules
+- Site visits
+- Various GIS mapping projects
+- Conducted planning-related research and analysis
+
+Tools Used: ESRI ArcMap, MS Office (Word, Excel, Access), Laserfiche, Bellamy Land Manager
+
+
+
 <font size = "6.5"> **R Tips and Tricks!** </font>
+
+
+- Creating a new code chunk: Ctrl + Alt + I
+
+- Commenting a chunk of code: Ctrl + Shift + C
+
+- Pipe Function ( %>% ): Ctrl + Shift + M
 
 
