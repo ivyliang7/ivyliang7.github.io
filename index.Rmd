@@ -7,6 +7,9 @@ output:
 
 ---
 
+<a href="second_page.html">Display Text</a>
+
+
 ![[A picture taken by me of Toronto at night]](toronto_view.jpg)
 
 
