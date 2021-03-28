@@ -1,5 +1,5 @@
 ---
-title: <span style="font-size:125%; font-family:'Trebuchet MS'; font-style:normal">-Page 2-</span>
+title: <span style="font-size:125%; font-family:'Trebuchet MS'; font-style:normal">-Ivy Liang-</span>
 output:
   html_document:
     highlight: pygments
@@ -9,6 +9,24 @@ output:
 
 
 
-<font size = "6.5"> **About Me** </font>
+<font size = "6.5"> **Skill Proficiencies** </font>
 
-this is the second page test
+
+<font size = "4"> **Technical Skills** </font>
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+library(ggplot2)
+
+skill <- c("Python", "R", "ESRI GIS Software", "Java", "MS Office")
+level <- c("6", "6", "7.5", "5", "9")
+
+skill_data <- data.frame(skill, level)
+
+ggplot(data = skill_data, aes(x = skill, y = level)) + 
+  geom_col() + coord_flip() + 
+  labs(x = "Proficiency Level", y = "Skill") +
+  theme_minimal()
+
+```
+
